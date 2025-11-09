@@ -63,7 +63,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Yogesh Naidu" />
                     <br />
                     <sub>
-                        <b>Yogesh Naidu</b>
+                        <b>Yogesh Naidu </b>
                     </sub>
                 </a>
             </td>
